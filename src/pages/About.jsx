@@ -14,10 +14,15 @@ const About = () => {
         </div>
       </div>
       <p className="mt-6 text-lg leading-8 max-w-2xl mx-auto">
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic veniam
-        odit, officiis eos mollitia alias, doloremque, aspernatur ratione
-        asperiores voluptas labore minus dolores reprehenderit corporis quos.
-        Assumenda molestias harum dignissimos?
+        "Embrace Modesty, Elevate Style." At [Your Store Name], we bring you a
+        thoughtfully curated collection of modest and elegant Islamic attire for
+        men, women, and kids. From traditional thobes and abayas to contemporary
+        modest wear, our designs blend faith, fashion, and comfort. With a
+        commitment to quality, authenticity, and timeless modesty, we ensure
+        that every piece reflects Islamic values while keeping up with modern
+        trends. Whether for everyday wear, special occasions, or prayer, our
+        collection is designed to inspire confidence and grace. Dress with
+        purpose. Shop with faith. 🕌✨
       </p>
     </>
   );

@@ -15,15 +15,15 @@ const Navbar = () => {
   // };
 
   return (
-    <nav className="bg-base-200">
-      <div className="navbar align-element ">
+    <nav className="bg-blue-700">
+      <div className="navbar align-element py-0">
         <div className="navbar-start">
           {/* Title */}
           <NavLink
             to="/"
-            className="hidden lg:flex btn btn-primary text-3xl items-center "
+            className="hidden lg:flex btn bg-blue-400 text-3xl items-center "
           >
-            C
+            HL
           </NavLink>
           {/* DROPDOWN */}
           <div className="dropdown">

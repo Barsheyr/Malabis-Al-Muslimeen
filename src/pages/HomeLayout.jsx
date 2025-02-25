@@ -5,12 +5,12 @@ const HomeLayout = () => {
   const isPageLoading = navigation.state === "loading";
   return (
     <>
-      <Header />
+      <Header className="" />
       <Navbar />
       {isPageLoading ? (
         <Loading />
       ) : (
-        <section className="align-element py-20">
+        <section className="">
           <Outlet />
         </section>
       )}
